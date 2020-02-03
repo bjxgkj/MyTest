@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDaJaYvoczMC+8iHnwTF2wbcy7RUIZkJglW86Xg5CE7KquJ5K6k41+9Ff1qlBmOI9zJEzYTKvTM1T3AxjByro/asTFBa7wtPqRPdC9rctquGkTOkXO78Bx1x5jv4kiHHkDBIeB+6hdWGWMRCyhTjrn9YFq1PrQXPipKhNMh/3Ha06TX5l/v2+ZtsLfvyvg9QKpx4+SBy+exk3hwdP5mmD/2ntUi+Mza/RRci9m7fnSnjdaAj8/CFh+AgBZ+FTWMx6/K/kHANjOeRhpd764o175yqUoN325HURhQdxEDWx4fuzVA0eJL2non8i+GkuQx23/N9BZKGWars3NFpYlnKX+NguvjBQ4J0Mkct0K4lJjIjblTqljM0z2Yxdd8o3aO2q3jgy+6Ay3nZqllV3l+Vzqd9jKfAMy6BZymY7O+0jic4QkPWYlCggVIDiyHnEtxl1fK20JFfS8B39cFOGcThqsHiNzTFMLqDCpGMjZraHqSqevFptQlKOKtaojBJPVtbls= zxgpub@163.com
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
